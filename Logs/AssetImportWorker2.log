@@ -1,0 +1,487 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.0b8 (dff91d65251a) revision 14678301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 6092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0b8\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Projetos/Unity/Holograma-master/Hologram3
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+57145
+Successfully changed project path to: D:/Projetos/Unity/Holograma-master/Hologram3
+D:/Projetos/Unity/Holograma-master/Hologram3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 187.04 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b8 (dff91d65251a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projetos/Unity/Holograma-master/Hologram3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) RX Vega 11 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3046 MB
+    Driver:   27.20.12031.1000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.004438 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.19 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.759 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008283 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Projetos\Unity\Holograma-master\Hologram3\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.410 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.33 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1854 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 15.889900 ms (FindLiveObjects: 0.541200 ms CreateObjectMapping: 0.087300 ms MarkObjects: 15.180400 ms  DeleteObjects: 0.079400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Mascote_Final.fbx
+  artifactKey: Guid(f1c6cbfa45f91974dab3812eaecaacbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mascote_Final.fbx using Guid(f1c6cbfa45f91974dab3812eaecaacbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1af1ea2f21c2df2e0a13f947c6a8885') in 7.199759 seconds
+  Import took 7.213268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003984 seconds.
+  path: Assets/Ultima1.unity
+  artifactKey: Guid(dd114a4f08934c74c919bd2fae7fe133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultima1.unity using Guid(dd114a4f08934c74c919bd2fae7fe133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9a70043d76091cf9da72a2d16011f1') in 0.011011 seconds
+  Import took 0.015276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Gizmos
+  artifactKey: Guid(f08bcfe7b5991c143b77c6442a7230c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos using Guid(f08bcfe7b5991c143b77c6442a7230c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073a9350f19e91118618e61e805e9ea0') in 0.061433 seconds
+  Import took 0.066462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/UnityNpgsql.dll
+  artifactKey: Guid(fa88389c458a79345b6506bbf2116d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityNpgsql.dll using Guid(fa88389c458a79345b6506bbf2116d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517a9558d0d663246b4d9d0eea678a1a') in 0.074312 seconds
+  Import took 0.079489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Rogo Digital
+  artifactKey: Guid(cfd9b15caf5e339459a46b4695386881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rogo Digital using Guid(cfd9b15caf5e339459a46b4695386881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8bb779e4010fc845b793e4a5a4e9aa') in 0.010869 seconds
+  Import took 0.015762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Musicacamera.cs
+  artifactKey: Guid(38fdfe5b06b2e1848a05ffb70603309e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Musicacamera.cs using Guid(38fdfe5b06b2e1848a05ffb70603309e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21462560b5c1d64ae6b8ed6627b6ef38') in 0.673408 seconds
+  Import took 0.679759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/DynamicBone
+  artifactKey: Guid(e6ba56ede2604dd4082ed2d0b4f435dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DynamicBone using Guid(e6ba56ede2604dd4082ed2d0b4f435dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be1e9842d05adf658baae8cefd141ea') in 0.012298 seconds
+  Import took 0.017434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Hologram Pyramid
+  artifactKey: Guid(66bb63f6586d0bb42abfea26edf3fbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid using Guid(66bb63f6586d0bb42abfea26edf3fbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1532d34911ae9bafba2bf5f00a30bb5') in 0.012782 seconds
+  Import took 0.018867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(172bbaf01988e44448821bddb18b0dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(172bbaf01988e44448821bddb18b0dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabfd41ee6e9250ef541768f7deee181') in 0.012533 seconds
+  Import took 0.017100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Danca.controller
+  artifactKey: Guid(7b1e483062d94a4499e42f4f543c9ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Danca.controller using Guid(7b1e483062d94a4499e42f4f543c9ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198e3e6cb3a8e527c095eaa6812e696e') in 0.157606 seconds
+  Import took 0.164719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Crazy Minnow Studio
+  artifactKey: Guid(e139aae5a254294479f59f1b5a269622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crazy Minnow Studio using Guid(e139aae5a254294479f59f1b5a269622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4859036cfa8ffa13345d8faeb05ca3d7') in 0.011069 seconds
+  Import took 0.016297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/texturas
+  artifactKey: Guid(2982749000bdeb3438f827665e730992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texturas using Guid(2982749000bdeb3438f827665e730992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c987a61f2e2d936c340bdfbdae42ec03') in 0.012871 seconds
+  Import took 0.018126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/animato.cs
+  artifactKey: Guid(587cb093d7ec0d64eaee3374b8251578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animato.cs using Guid(587cb093d7ec0d64eaee3374b8251578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5580aed8f00eb628232a744b714876') in 0.011577 seconds
+  Import took 0.016271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Boca1.anim
+  artifactKey: Guid(47ba9d5208a5b9f4a972664cb247ad06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Boca1.anim using Guid(47ba9d5208a5b9f4a972664cb247ad06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94073acd84dfa64d7a640a2824324c3d') in 0.015610 seconds
+  Import took 0.021339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Editor Default Resources
+  artifactKey: Guid(7e1a699a1b75abb4dac134babfa44ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor Default Resources using Guid(7e1a699a1b75abb4dac134babfa44ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4160f1f9708ccab037144f5e472314fa') in 0.011398 seconds
+  Import took 0.016694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Banco.cs
+  artifactKey: Guid(bd99f1169f1741e4ba9e82c34b75b751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Banco.cs using Guid(bd99f1169f1741e4ba9e82c34b75b751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b8e992c7b7088c9afd98610724a09d') in 0.012195 seconds
+  Import took 0.040830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Recognite.cs
+  artifactKey: Guid(e8cc674e87643304b86bfff0a32b81f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recognite.cs using Guid(e8cc674e87643304b86bfff0a32b81f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3caa22ee5339c1efddc3ff72a9be3e16') in 0.013959 seconds
+  Import took 0.019352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master
+  artifactKey: Guid(b1ddf20bedcdc3e43a42a58ad962f169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master using Guid(b1ddf20bedcdc3e43a42a58ad962f169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10121b6c3bdcbe5fbecff002ef3ce317') in 0.055122 seconds
+  Import took 0.061449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002771 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master
+  artifactKey: Guid(b1ddf20bedcdc3e43a42a58ad962f169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master using Guid(b1ddf20bedcdc3e43a42a58ad962f169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10121b6c3bdcbe5fbecff002ef3ce317') in 0.007170 seconds
+  Import took 0.029966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.733434 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/STT_credentials.png
+  artifactKey: Guid(dc198ab7ad126ab46af8e023c64ac65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/STT_credentials.png using Guid(dc198ab7ad126ab46af8e023c64ac65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f70907d26b68b194736ce82edb166e3') in 0.541007 seconds
+  Import took 0.546212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Editor Default Resources/Rogo Digital/LipSync/Dark/track.png
+  artifactKey: Guid(498eeaec2d4403a4d867e88ee0f24c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor Default Resources/Rogo Digital/LipSync/Dark/track.png using Guid(498eeaec2d4403a4d867e88ee0f24c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd909f2b756cea2eacabe4538e240299d') in 0.073045 seconds
+  Import took 0.077610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Hologram Pyramid/Camera/Top.renderTexture
+  artifactKey: Guid(ea865a742467e4a2c88bd2f43aa2db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Top.renderTexture using Guid(ea865a742467e4a2c88bd2f43aa2db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471f7ff95d274de9546cd72f3b83d369') in 0.255360 seconds
+  Import took 0.260119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Editor Default Resources/Rogo Digital/LipSync/Guides/U.png
+  artifactKey: Guid(fa2a440ad71b40b42a982048a56b5a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor Default Resources/Rogo Digital/LipSync/Guides/U.png using Guid(fa2a440ad71b40b42a982048a56b5a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed19d0688d63872ee125e886e43ea96') in 0.080157 seconds
+  Import took 0.085282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Editor Default Resources/Rogo Digital/LipSync/Light/track.png
+  artifactKey: Guid(05a216b8673055947b033f646d2bae07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor Default Resources/Rogo Digital/LipSync/Light/track.png using Guid(05a216b8673055947b033f646d2bae07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3821a8582c2ded744442219def6d1d49') in 0.059435 seconds
+  Import took 0.063700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/CompareComplyV1/TableTestV3.png
+  artifactKey: Guid(d8adb9b3c003d4252a9e7232f83502e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/CompareComplyV1/TableTestV3.png using Guid(d8adb9b3c003d4252a9e7232f83502e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '394a73b4d3b5afc68fbcddc7243f5c1c') in 0.039006 seconds
+  Import took 0.044127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Editor Default Resources/Rogo Digital/LipSync/Light/unlocked.png
+  artifactKey: Guid(5bd36b9810c569f4b8f8a35caf2e5743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor Default Resources/Rogo Digital/LipSync/Light/unlocked.png using Guid(5bd36b9810c569f4b8f8a35caf2e5743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66757e0accf82efebe9b94014458d48b') in 0.024745 seconds
+  Import took 0.029429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/CompareComplyV1/TableTestV3.png
+  artifactKey: Guid(d8adb9b3c003d4252a9e7232f83502e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/CompareComplyV1/TableTestV3.png using Guid(d8adb9b3c003d4252a9e7232f83502e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '394a73b4d3b5afc68fbcddc7243f5c1c') in 0.012764 seconds
+  Import took 0.017581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/tts_credentials.gif
+  artifactKey: Guid(cb6bb150369e26048bb2c0f1dfc0cf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/tts_credentials.gif using Guid(cb6bb150369e26048bb2c0f1dfc0cf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f17e14f86be66920d38f0e25176f2a1') in 0.088491 seconds
+  Import took 0.093899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/VisualRecognitionV3/turtle_to_classify.jpg
+  artifactKey: Guid(2378231219ecd374ea827228acf19951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/VisualRecognitionV3/turtle_to_classify.jpg using Guid(2378231219ecd374ea827228acf19951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2404c09f52c9050123c0cb13002d5dd8') in 0.075117 seconds
+  Import took 0.079956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/tts_credentials.gif
+  artifactKey: Guid(cb6bb150369e26048bb2c0f1dfc0cf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/tts_credentials.gif using Guid(cb6bb150369e26048bb2c0f1dfc0cf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f17e14f86be66920d38f0e25176f2a1') in 0.013217 seconds
+  Import took 0.019298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/VisualRecognitionV3/turtle_to_classify.jpg
+  artifactKey: Guid(2378231219ecd374ea827228acf19951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-Watson-STT-Assistant-TTS-master/Assets/unity-sdk-4.5.0/Tests/TestData/VisualRecognitionV3/turtle_to_classify.jpg using Guid(2378231219ecd374ea827228acf19951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2404c09f52c9050123c0cb13002d5dd8') in 0.021477 seconds
+  Import took 0.026851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.976681 seconds.
+  path: Assets/Hologram Pyramid/Camera
+  artifactKey: Guid(04df45e778327436786d53428cbbc43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera using Guid(04df45e778327436786d53428cbbc43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c541027a28ab59c60facf03376702c') in 0.014193 seconds
+  Import took 0.019029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Hologram Pyramid/Scene
+  artifactKey: Guid(0c17a73440096d7409af304d5efddda1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Scene using Guid(0c17a73440096d7409af304d5efddda1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b3246d4cbffa6531ed9f235429fc17') in 0.011760 seconds
+  Import took 0.015902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Hologram Pyramid/Docs
+  artifactKey: Guid(024be7276326f6641b81f842d844f2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Docs using Guid(024be7276326f6641b81f842d844f2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d8888ba61f31dee5ad1a240ee49c13') in 0.012166 seconds
+  Import took 0.016889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Hologram Pyramid/Textures
+  artifactKey: Guid(249c1919320b61f4496149ebd2d0cc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Textures using Guid(249c1919320b61f4496149ebd2d0cc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76ddf5e51a7d8f4d94936223c991457') in 0.012332 seconds
+  Import took 0.017833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Hologram Pyramid/Sprites
+  artifactKey: Guid(688889d679b782641b3b76bd44df2ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Sprites using Guid(688889d679b782641b3b76bd44df2ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964ad89be4254cc1374847ec3339e8a3') in 0.012454 seconds
+  Import took 0.017009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Hologram Pyramid/Scripts
+  artifactKey: Guid(6f81975809ba74cb9b42324184b393cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Scripts using Guid(6f81975809ba74cb9b42324184b393cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa337e072bb72833fd6bcffdea83d2a') in 0.011451 seconds
+  Import took 0.016175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.776112 seconds.
+  path: Assets/Hologram Pyramid/Camera/Bottom.renderTexture
+  artifactKey: Guid(b7ec7e04bc3d74de59b07bc3d0867533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Bottom.renderTexture using Guid(b7ec7e04bc3d74de59b07bc3d0867533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1d0549e554410f4ea5429182505596') in 0.079001 seconds
+  Import took 0.083756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Hologram Pyramid/Camera/Right.renderTexture
+  artifactKey: Guid(a511a5fab17cd467b85fb93c0695e042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Right.renderTexture using Guid(a511a5fab17cd467b85fb93c0695e042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02093b2504ac8f58a062b637d5bcbd8a') in 0.015521 seconds
+  Import took 0.019398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Hologram Pyramid/Camera/Left.renderTexture
+  artifactKey: Guid(952506fc2dc114d0badcd009952cc7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Left.renderTexture using Guid(952506fc2dc114d0badcd009952cc7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bd05c3578ceeb4e4ff6628c205658e') in 0.020587 seconds
+  Import took 0.045908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001618 seconds.
+  path: Assets/Hologram Pyramid/Camera/Left.renderTexture
+  artifactKey: Guid(952506fc2dc114d0badcd009952cc7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Left.renderTexture using Guid(952506fc2dc114d0badcd009952cc7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bd05c3578ceeb4e4ff6628c205658e') in 0.011951 seconds
+  Import took 0.016594 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.056139 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Projetos\Unity\Holograma-master\Hologram3\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 597.13 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.054 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.041136 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Projetos\Unity\Holograma-master\Hologram3\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 48.4 MB.
+System memory in use after: 48.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.593800 ms (FindLiveObjects: 0.478200 ms CreateObjectMapping: 0.086100 ms MarkObjects: 1.996300 ms  DeleteObjects: 0.031600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1164.055608 seconds.
+  path: Assets/Hologram Pyramid/Camera/Bottom.renderTexture
+  artifactKey: Guid(b7ec7e04bc3d74de59b07bc3d0867533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Bottom.renderTexture using Guid(b7ec7e04bc3d74de59b07bc3d0867533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1cc2f229bacf53a6ef44394fc044f09') in 6.934499 seconds
+  Import took 7.846217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015688 seconds.
+  path: Assets/Hologram Pyramid/Camera/Right.renderTexture
+  artifactKey: Guid(a511a5fab17cd467b85fb93c0695e042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Right.renderTexture using Guid(a511a5fab17cd467b85fb93c0695e042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295eef43cc9b5a22cf90f41daa7646e2') in 0.114581 seconds
+  Import took 0.160865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Hologram Pyramid/Camera/Left.renderTexture
+  artifactKey: Guid(952506fc2dc114d0badcd009952cc7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Left.renderTexture using Guid(952506fc2dc114d0badcd009952cc7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845435eb066a8bdee66119f191f84051') in 0.037911 seconds
+  Import took 0.042356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017765 seconds.
+  path: Assets/Hologram Pyramid/Camera/Top.renderTexture
+  artifactKey: Guid(ea865a742467e4a2c88bd2f43aa2db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hologram Pyramid/Camera/Top.renderTexture using Guid(ea865a742467e4a2c88bd2f43aa2db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3302f48475565c18bdcbbc620329b8') in 0.108920 seconds
+  Import took 0.178150 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

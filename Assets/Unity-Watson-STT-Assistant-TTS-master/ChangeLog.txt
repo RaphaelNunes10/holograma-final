@@ -1,0 +1,25 @@
+
+3/28/2020
+The Unity project was updated to Unity 2019.3.7f1.
+
+The ibm Unity SDK was updated to the latest version 4.5.0. The Unity SDK core is still at 1.2.0.
+
+I've added a small menu to the Unity Editor call SNH-Watson. This will create a scriptable object named WatsonSetting.asset. This will be the the Assets/Resources folder. All the API keys and other credentials are now placed in this asset. This is more convenient but if you delete it by accident, the link to the prefabs is lost. Just create a new WatsonSettings file with the menu and drag and drop it into the settings slot in each of the prefabs for text-to-speech, speech-to-text, and chat in the inspector.
+
+I've been trying to figure out how to keep API keys safe if an app is distributed. So, I'm turning this into something you can run from a server where all the API keys can be kept away from client apps. So far, I've only made this work for text-to-speech.
+
+
+
+03/18/2020
+I've tried to clean up the code and make it more modular with prefabs for chat, text-to-speech, and speech-to-text. I hope this makes it easier to use. I made use of InputFields to trigger the transfer for text/string data between the modules.
+
+There is now a ChangeLog.txt file where I will keep track of older notices and changes.
+
+The README below needs a lot of updating. It's unchanged since the previous version which is now store in branch v1.
+
+I've started working on a brief tutorial to show how to hook up 3D characters/avatars with Salsa Lipsync to the audio output of text-to-speech.
+
+
+01/28/2020
+As of 01/28/2020 7PM CDT time zone, this Unity Project works with Unity 2017.2.8f1, IBM Unity SDK 4.1.1, and Unity SDK core 1.2.0. I'm pretty sure it will work with IBM Unity SDK 4.3.0. You just need to delete the unity-sdk-4.1.1 folder and replace it with unity-sdk-4.3.0. I fixed the mistake of not using the Watson service URLs correctly. So, it should now work with different IBM cloud regions. I've only tried it using the Dallas, Washington DC, and London regions. The video clips and pics for the instructions in this README file still need to be updated, but I did modify the text to explain what needs to be done to set this up.
+
