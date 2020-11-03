@@ -1,5 +1,9 @@
 sceneSetups:
-- path: Assets/Hologram Pyramid/Scene/Demo.unity
+- path: Assets/piramide_invertida.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/piramide_normal.unity
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
